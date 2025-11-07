@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Componentization.Utils;
+using Componentization.Runtime.Utils;
 
-namespace Componentization
+namespace Componentization.Runtime
 {
     public class Entity : Component
     {

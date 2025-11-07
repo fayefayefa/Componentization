@@ -1,6 +1,6 @@
 using System;
 
-namespace Componentization
+namespace Componentization.Runtime
 {
     public class Component : IDisposable
     {

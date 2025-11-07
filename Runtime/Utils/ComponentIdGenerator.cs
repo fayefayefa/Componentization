@@ -1,4 +1,4 @@
-namespace Componentization.Utils
+namespace Componentization.Runtime.Utils
 {
     public class ComponentIdGenerator
     {

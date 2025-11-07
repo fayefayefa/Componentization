@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Concurrent;
 
-namespace Componentization.Utils
+namespace Componentization.Runtime.Utils
 {
     public class ComponentPool
     {
