@@ -1,6 +1,6 @@
 {
 	"name": "com.dories.componentization",
-	"displayName":"componentization",
+	"displayName":"Componentization",
 	"version": "0.0.1",
 	"unity": "2022.3",
 	"description": "An entity component framework built for component-based programming",
