@@ -3,7 +3,7 @@
 	"displayName":"componentization",
 	"version": "0.0.1",
 	"unity": "2022.3",
-	"description": "An entity component framework built for component-based programming \n\nFor best results, use this text to summarize: \n\u25AA What the package does \n\u25AA How it can benefit the user \n\nNote: Special formatting characters are supported, including line breaks ('\\n') and bullets ('\\u25AA').",
+	"description": "An entity component framework built for component-based programming",
 	"dependencies": {
 	}
 }
